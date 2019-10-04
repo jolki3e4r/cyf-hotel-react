@@ -10,7 +10,7 @@ const Heading = () => {
       </header>
       <div className="class-img">
         <img
-          src="http://www.fotoclipping.com/blog/wp-content/uploads/800-300-banner/banner-1.jpg"
+          src="https://s11759.pcdn.co/wp-content/uploads/2018/04/RESI-BOS-18-June-Banner-1080x300.jpg"
           alt=""
           className="App-logo mt-2 mx-5"
         />
