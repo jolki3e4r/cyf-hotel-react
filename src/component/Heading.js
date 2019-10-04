@@ -12,7 +12,7 @@ const Heading = () => {
         <img
           src="http://www.fotoclipping.com/blog/wp-content/uploads/800-300-banner/banner-1.jpg"
           alt=""
-          className="App-logo mt-2"
+          className="App-logo mt-2 mx-5"
         />
       </div>
     </div>
